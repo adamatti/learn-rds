@@ -1,0 +1,6 @@
+.terraform/
+tmp/
+
+.terraform*
+*.tfstate*
+*.pem
